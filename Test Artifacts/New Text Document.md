@@ -1,13 +1,13 @@
 # Test_documentation
 
 - Cheat sheet for mobile testing: 
-https://docs.google.com/spreadsheets/d/11xljmYkJRw9QnoGo8golGwzQ8InAmRfKRk8A_5Q5SMQ/edit#gid=0
+https://docs.google.com/spreadsheets/d/1Axkl4AdT_Na2r1OjaYolJUW-QYuw7dJ7x-nm_r9O_Fo/edit#gid=0
 
 - Checklist for a mobile app:
-https://docs.google.com/spreadsheets/d/11xljmYkJRw9QnoGo8golGwzQ8InAmRfKRk8A_5Q5SMQ/edit#gid=1828722200
+https://docs.google.com/spreadsheets/d/1Axkl4AdT_Na2r1OjaYolJUW-QYuw7dJ7x-nm_r9O_Fo/edit#gid=1828722200
 
 - Bug reports:
-https://docs.google.com/spreadsheets/d/11xljmYkJRw9QnoGo8golGwzQ8InAmRfKRk8A_5Q5SMQ/edit#gid=1889923636
+https://docs.google.com/spreadsheets/d/1Axkl4AdT_Na2r1OjaYolJUW-QYuw7dJ7x-nm_r9O_Fo/edit#gid=1889923636
 
 - Web-form testing:
-https://docs.google.com/spreadsheets/d/11xljmYkJRw9QnoGo8golGwzQ8InAmRfKRk8A_5Q5SMQ/edit#gid=1073644406
+https://docs.google.com/spreadsheets/d/1Axkl4AdT_Na2r1OjaYolJUW-QYuw7dJ7x-nm_r9O_Fo/edit#gid=1073644406
