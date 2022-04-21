@@ -1,0 +1,19 @@
+#!/bin/bash
+# for comment
+echo "Аction_2.Create folder "foldername""
+mkdir foldername
+echo "Аction_3.Open folder foldername"
+cd foldername
+echo "Аction_4.Create 3 folders"
+mkdir foldername_{1..3}
+echo "Аction_5.Open folder "foldername_1""
+cd foldername_1
+echo "Аction_6.Create 5 files"
+touch new_file_{1..3}.txt new_file_{1..2}.json
+echo "Аction_7.Create 3 folders"
+mkdir foldername_{4..7}
+echo "Аction_8.Content list"
+ls -la
+echo "Аction_13.Move 2 any files"
+mv new_file_1.json new_file_1.txt foldername_4
+echo "Script successfully done done :)"
